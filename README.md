@@ -1,33 +1,30 @@
 # Cinema Data Analysis (Python)
 
-This project analyzes cinema and movie audience data using Python.  
-The goal is to examine yearly audience trends and the relationship between cinema halls and viewer counts.
+This project is a data analysis and visualization study based on cinema audience statistics.  
+The dataset was analyzed using Python to understand audience trends and relationships between cinema halls and attendance.
 
-## What I Did
-- Read and processed dataset using pandas
-- Grouped and analyzed yearly audience statistics
-- Calculated correlations between number of cinema halls and audience averages
-- Created visualizations using Plotly
+## Project Purpose
+The aim of this project is to examine yearly audience changes and analyze the relationship between cinema hall capacity and audience numbers.
 
-## Technologies
+## Features
+- Reading dataset using pandas
+- Data grouping and statistical calculations
+- Correlation analysis
+- Visualization with Plotly
+
+## Technologies Used
 - Python
 - Pandas
 - Plotly
-- CSV dataset
-
-## How to Run
-1. Install required libraries:
-   pip install pandas plotly
-
-2. Make sure the CSV file is in the same folder as the Python file.
-
-3. Run:
-   python olasilik2.denemeksimi.py
+- CSV Dataset
 
 ## Sample Outputs
 
 ### Audience Trend
-![Audience Graph](images/izleyici_grafigi.png)
+![Audience Trend](images/audience_trend.png)
 
 ### Correlation Analysis
-![Correlation Graph](images/korelasyon_grafigi.png)
+![Correlation Analysis](images/correlation_analysis.png)
+
+## Note
+This project was developed as part of a Probability and Statistics course.
